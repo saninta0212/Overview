@@ -14,5 +14,5 @@ at [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca/) </br>
 👩‍🎓: Led the UBC STEM Fellowship Club for 4 years
 
 #### Contact ####
-:email: sambina.islam@gmail.com </br>
-:link: https://ca.linkedin.com/in/sambina-aninta-7b3004186
+:email: Email - sambina.islam@gmail.com </br>
+:link: Linkedin - https://ca.linkedin.com/in/sambina-aninta-7b3004186
