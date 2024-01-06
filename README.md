@@ -9,4 +9,10 @@
 :lungs: Honors Thesis on Predicting Exacerbation in COPD Patients using Random Forest with Dr. Roger Tam at SBME </br>
 :pill: Molecular Biology and Data Informatics Co-op at Amgen </br>
 :frog: Bioinformatics Co-op studying [AntiMicrobial Peptides](https://github.com/bcgsc/rAMPage)
-at [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca/) at 
+at [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca/) </br> 
+#### Leadership ####
+👩‍🎓: Led the UBC STEM Fellowship Club for 4 years
+
+#### Contact ####
+:email: sambina.islam@gmail.com
+:link: https://ca.linkedin.com/in/sambina-aninta-7b3004186
