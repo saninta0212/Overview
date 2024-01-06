@@ -1,15 +1,8 @@
 ## <p align=center>Sambina Islam Aninta</p> 
 ### <p align=center> :dna: :computer: Bioinformatics | Machine Learning | Computational Biology </p>
 
-#### Education ###
-Combined Honours in Computer Science and Biology, UBC
-
-Current Position
-I am currently working as a Research Technician III in SBME 
-
-Previous Research Experience
-- https://github.com/bcgsc/rAMPage
-- Amgen
-- COPD
-  
-I am a third year student at the University of British Columbia (UBC) doing a Combined Biology and Computer Science program. Currently, I am working at [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca/) at [Canada's Michael Smith Genome Sciences Centre](https://www.bcgsc.ca/).  
+:school: Combined Honours in Computer Science and Biology, UBC </br>
+:dna: Currently, I am working as a Research Technician in the de Boer lab in the SBME studying ML applications in genomics </br>
+:lungs: Previously, I did my thesis on Predicting Exacerbation in COPD Patients using Random Forest with Dr. Roger Tam at SBME </br>
+:drug: Worked at Amgen as a Molecular Biology and Data Informatics Co-op and 
+:frog: Worked at the [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca/) at [Canada's Michael Smith Genome Sciences Centre](https://www.bcgsc.ca/) studying [AntiMicrobial Peptides as alternatives to Antibiotics](https://github.com/bcgsc/rAMPage)
