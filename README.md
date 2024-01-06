@@ -11,8 +11,8 @@
 :frog: Bioinformatics Co-op studying [AntiMicrobial Peptides](https://github.com/bcgsc/rAMPage)
 at [Bioinformatics Technology Lab (BTL)](http://www.birollab.ca/) </br> 
 #### Leadership ####
-👩‍🎓: Led the UBC STEM Fellowship Club for 4 years
+👩‍🎓Led the UBC STEM Fellowship Club for 4 years
 
 #### Contact ####
-:email: Email - sambina.islam@gmail.com </br>
-:link: Linkedin - https://ca.linkedin.com/in/sambina-aninta-7b3004186
+:email: Email: sambina.islam@gmail.com </br>
+:link: Linkedin: https://ca.linkedin.com/in/sambina-aninta-7b3004186
