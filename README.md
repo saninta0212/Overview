@@ -1,5 +1,5 @@
 ## <p align=center>Sambina Islam Aninta</p> </br>
-### <p align=center> Bioinformatics | Machine Learning </p>
+### <p align=center> :dna: :computer: Bioinformatics | Machine Learning | Computational Biology </p>
 Education 
 UBC 
 
