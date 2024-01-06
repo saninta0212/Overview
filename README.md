@@ -1,4 +1,4 @@
-## Sambina Islam Aninta </br>
+## <p style="text-align: center;">Sambina Islam Aninta</p></br>
 Education 
 UBC 
 
