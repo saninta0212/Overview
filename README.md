@@ -1,7 +1,8 @@
 ## <p align=center>Sambina Islam Aninta</p> 
 ### <p align=center> :dna: :computer: Bioinformatics | Machine Learning | Computational Biology </p>
-Education 
-UBC 
+
+#### Education ###
+Combined Honours in Computer Science and Biology, UBC
 
 Current Position
 I am currently working as a Research Technician III in SBME 
